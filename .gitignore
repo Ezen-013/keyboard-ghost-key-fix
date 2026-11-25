@@ -1,0 +1,7 @@
+# Local input diagnostics, backups and Windows artifacts
+/ghostlog.txt
+*.log
+*.bak
+*.lnk
+Thumbs.db
+Desktop.ini
